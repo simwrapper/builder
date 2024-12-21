@@ -1,0 +1,1 @@
+import{d as s,n as t}from"./index-DET-lS7R.js";const a=s({name:"BlankPanel",components:{},props:{},methods:{},mounted(){this.$emit("isLoaded")}});var o=function(){var e=this,n=e._self._c;return e._self._setupProxy,n("div",{staticClass:"blank-card"})},r=[],c=t(a,o,r,!1,null,"e3664cfc");const i=c.exports;export{i as default};
